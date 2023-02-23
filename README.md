@@ -20,4 +20,4 @@ _NB_ : Image in directory `img/hello_extensions` is from https://github.com/Goog
 
 # Installation
 
-Clone this project (or download zip file and extract it). Then go to [chrome extension](chrome://extensions/), active `developer mode` and load unpacked extension.
+Clone this project (or download zip file and extract it). Then go to chrome://extensions/, active `developer mode` and load unpacked extension.
