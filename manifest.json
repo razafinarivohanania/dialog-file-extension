@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "Form with dialog file",
+    "description": "Form with dialog file",
+    "version": "1.0",
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": "img/hello_extensions.png"
+    }
+}
